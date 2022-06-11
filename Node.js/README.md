@@ -2,7 +2,7 @@
 
 - Offered by Coursera in partnership with The Hong Kong University of Science and Technology.
 
-## Some of technology learned in in this course:
+## Some of technology learned in this course:
 
 - NodeJS and Express for building web servers.
 - Web protocols: HTTP and HTTPS.
