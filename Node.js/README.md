@@ -1,0 +1,12 @@
+# Server-side Development with NodeJS, Express and MongoDB
+
+- Offered by Coursera in partnership with The Hong Kong University of Science and Technology.
+
+## Some of technology learned in in this course:
+
+- NodeJS and Express for building web servers.
+- Web protocols: HTTP and HTTPS.
+- CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS.
+- REST concepts and RESTful API.
+- authentication and security.
+- backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services.
